@@ -7,3 +7,4 @@ Changed in no-fast-forward way.
 
 Change from the browser.
 Another change from the browser.
+New change from the local repo.
